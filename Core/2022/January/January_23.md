@@ -1,14 +1,14 @@
 # Jan 23, 2022 | FOSS LK Core Call
 
 ## Attendees:
-- dhanushka.c@hotmail.com
-- harindu@mozilla.lk
-- nikeshala.madubashini@gmail.com 
-- sudaraka@mozilla.lk 
-- vihari@foss.lk
+- Dhanushka Chandana
+- Vihari Punchihewa
+- Harindu Lakshan
+- Nikeshala Madubashini 
+- Sudaraka Senevirathna 
 
 
- ## Notes 
+ ## Discussion 🎯
 
 - Discussed about Hashcode.
 	- Tried to Find Speakers for the Intro Session and Workshop. 
@@ -20,7 +20,7 @@
 - Collected Suggestions for each team though a Doc.
 
 
-## Items to do:
+## Action Items 🚧
  
 - Have to call for Speakers. 
 - Have to Create Teams for the Lk.
