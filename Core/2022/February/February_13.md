@@ -30,6 +30,7 @@
 
 ## Action Items 🚧
  
-- Have to find the speakers for HashCode 2022. 
-- Have to have a call with the HashCode organizing team.
-- Have to finalize the team member selection for the LK.
+- Create tito email content. 
+- Test email send.
+- Organize cc call.
+- Schedule cc call.
